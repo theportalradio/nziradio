@@ -1731,7 +1731,7 @@ a:hover.back-to-top {
 	.header .deco-blue-circle {
 		position: absolute;
 		top: 34rem; /* top: 28rem; */
-		rigth: 5rem; /* left: 5rem; */
+		right: 5rem; /* left: 5rem; */
 		display: block;
 		width: 5rem;
 		height: 5rem;
