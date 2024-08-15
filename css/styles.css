@@ -1748,8 +1748,8 @@ a:hover.back-to-top {
 
 	.header .deco-green-diamond {
 		position: absolute;
-		top: 31rem; /* top: 9rem; */
-		right: 4rem; /* left: 4rem; */
+		top: 18rem; /* top: 9rem; */
+		right: 12rem; /* left: 4rem; */
 		display: block;
 		width: 1rem;
 		height: 1rem;
@@ -1993,8 +1993,8 @@ a:hover.back-to-top {
 	}
 
 	.header .deco-green-diamond {
-		top: 31rem; /* 7rem */
-		right: 18%; /* left: 18%; */
+		top: 18rem; /* 7rem */
+		right: 7%; /* left: 18%; */
 		width: 1.25rem;
 		height: 1.25rem;
 	}
