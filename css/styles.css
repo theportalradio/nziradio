@@ -1717,6 +1717,7 @@ a:hover.back-to-top {
 		display: block;
 		width: 22rem;
 		height: 22rem;
+		z-index: -1;
 	}
 
 	.header .deco-white-circle-2 {
